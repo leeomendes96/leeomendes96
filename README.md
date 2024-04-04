@@ -1,4 +1,7 @@
 ### Hi there 👋
+### 🌱 I’m currently learning Python with the HyperionDev team
+### I will be concluding by short course in June 2024
+### Really looking forward to it!
 
 <!--
 **leeomendes96/leeomendes96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
